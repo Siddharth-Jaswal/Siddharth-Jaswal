@@ -41,7 +41,7 @@ I'm a **Full‑Stack Web Developer**, **Machine Learning Enthusiast**, and **Alg
 
 ## Connect with Me
 <div align="center">
-<a href="www.linkedin.com/in/siddharth-jaswal-b4903a2b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/siddharth-jaswal-b4903a2b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:siddy32jaswal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 <a href="https://siddharthjaswal.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </div>
