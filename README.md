@@ -11,11 +11,11 @@ I'm a **Full‑Stack Web Developer**, **Machine Learning Enthusiast**, and **Alg
 | Domain | Tools & Languages |
 |--------|-------------------|
 | **Languages** | C++, Python, JavaScript |
-| **Frontend** | HTML, CSS, Bootstrap |
-| **Backend** | Node.js, Express |
+| **Frontend** | React, HTML, CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, Flask |
 | **Database** | MongoDB |
-| **Data / ML** | Pandas, NumPy |
-| **Other** | Git & GitHub |
+| **Data / ML** | Pandas, NumPy, Sklearn, Open-CV |
+| **Other** | Git & GitHub, Postman |
 
 </div>
 
